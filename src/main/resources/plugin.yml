@@ -1,0 +1,6 @@
+name: DiscordAutoReply
+version: 1.0.0
+main: com.bensmp.discordautoreply.DiscordAutoReply
+api-version: '1.21'
+author: BenR
+description: Sends the server Discord invitation when players say dc or discord.
